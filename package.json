@@ -1,7 +1,7 @@
 {
   "name": "rescue-chow",
   "version": "1.0.0",
-  "description": "",
+  "type": "module",
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -36,5 +36,7 @@
   "devDependencies": {
     "concurrently": "^5.1.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
