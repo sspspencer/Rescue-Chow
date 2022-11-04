@@ -1,6 +1,9 @@
 {
   "name": "rescue-chow",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.17.0"
+  },
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
